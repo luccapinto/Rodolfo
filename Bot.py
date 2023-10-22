@@ -5,7 +5,7 @@ import json
 import random
 
 client = discord.Client()
-token = 'OTgyNjU0NjQzMTIzMzk2NjE5.GnbBXD.BXU68Xq93xgOxjpAZzTTXLhFsbdUUntK6TCn8o'
+token = '<Coloque o Token do bot do Discord aqui>'
 sabor = ['Calabresa','Mussarela','4 queijos','Figado','Vegetariana','Banana','Atum','Brigadeiro','Rucula','Peixe','Sem sabor','Abobrinha','Cimento']
 preco = ['R$42','R$34','R$36','R$18','R$35','R$30','R$45','R$36','R$34','R$40','R$60','R$37','R$87']
 
